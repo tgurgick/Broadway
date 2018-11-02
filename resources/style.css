@@ -50,3 +50,11 @@ h4 {
   font-size: 11px;
   background-color: dimgray;
 }
+
+.footer p {
+  text-align: left;
+  font-family: Helvetica;
+  color: white;
+  font-size: 11px;
+  background-color: dimgray;
+}
